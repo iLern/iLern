@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [neo4j-d3-frontend](https://github.com/iLern/neo4j-d3-frontend)
 
-- 🌱 I’m currently learning **Vue / SpringBoot / D3**
+- 🌱 I’m currently learning **Vue / SpringBoot / D3.js**
 
 - 📝 I regularly write articles on [blog.tiestone.top](blog.tiestone.top)
 
