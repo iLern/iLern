@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm TieStone / iLern</h1>
 <h3 align="center">A post graduate student from BUPT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilern&label=Profile%20views&color=0e75b6&style=flat" alt="ilern" /> </p>
-
 - 🔭 I’m currently working on [neo4j-d3-frontend](https://github.com/iLern/neo4j-d3-frontend)
 
 - 🌱 I’m currently learning **Vue / SpringBoot / D3.js**
