@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [blog.tiestone.top](blog.tiestone.top)
 
-- 📫 How to reach me **Taisitong@outlook.com**‘
+- 📫 How to reach me **Taisitong@outlook.com**
 
 - ❤️ Love Linux and open source software
 
