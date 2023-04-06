@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TieStone / iLern</h1>
-<h3 align="center">A post graduate student from BUPT</h3>
+<h3 align="center">A postgraduate student from BUPT</h3>
 
 - 🔭 I’m currently working on [neo4j-d3-frontend](https://github.com/iLern/neo4j-d3-frontend)
 
