@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue / SpringBoot / D3.js**
 
-- 📝 I regularly write articles on [blog.tiestone.top](blog.tiestone.top)
+- 📝 I regularly write articles on my Blog([blog.tiestone.top])(http://blog.tiestone.top)
 
 - 📫 How to reach me **Taisitong@outlook.com**
 
