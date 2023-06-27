@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang / WebApplicationFireWall**
 
-- 📝 I regularly write articles on [blog.tiestone.top](blog.tiestone.top)
+- 📝 I regularly write articles on [blog.tiestone.top](https://blog.tiestone.top)
 
 - 📫 How to reach me **Taisitong@outlook.com**
 
