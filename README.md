@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TieStone / iLern</h1>
-<h3 align="center">A post graduate student from BUPT</h3>
+<h3 align="center">A postgraduate student from BUPT</h3>
 
-- 🔭 I’m currently working on [Casbin casWAF](https://github.com/iLern/caswaf)
+- 🔭 I’m currently working on my postgraduate thesis 💪
 
-- 🌱 I’m currently learning **Golang / WebApplicationFireWall**
+- 🌱 I’m currently learning Robotics and Reinforcement Learning
 
 - 📝 I regularly write articles on [blog.tiestone.top](https://blog.tiestone.top)
 
